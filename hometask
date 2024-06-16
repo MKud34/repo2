@@ -1,0 +1,15 @@
+1) Отличия
+8-10 строчки
+=  =  0  =  =
+=  =  0  =  =
+ == = 0 = ==
+13-14 строчки
+  ==== ====
+ ===== =====
+
+2) коммиты:
+master: 3, fix readme
+boots: 2, boots
+buttons: 3, dots
+demo: 6, dots
+hat: 2, heat added
